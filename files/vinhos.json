@@ -1,0 +1,162 @@
+[
+    {
+        "produto": "Avondale",
+        "variedade": "Muscat de Frontignon",
+        "pais": "Africa do Sul",
+        "categoria": "Rosé",
+        "safra": "2010",
+        "preco": 66.8
+    },
+    {
+        "produto": "Punto Final",
+        "variedade": "Sauvignon Blanc",
+        "pais": "Argentina",
+        "categoria": "Branco",
+        "safra": "2015",
+        "preco": 59.9
+    },
+    {
+        "produto": "Punto Final Etiqueta Negra",
+        "variedade": "Malbec",
+        "pais": "Argentina",
+        "categoria": "Tinto",
+        "safra": "2012",
+        "preco": 59.9
+    },
+    {
+        "produto": "Punto Final",
+        "variedade": "Malbec",
+        "pais": "Argentina",
+        "categoria": "Rosé",
+        "safra": "2016",
+        "preco": 59.9
+    },
+    {
+        "produto": "Punto Final Etiqueta Branca",
+        "variedade": "Malbec",
+        "pais": "Argentina",
+        "categoria": "Tinto",
+        "safra": "2010",
+        "preco": 98
+    },
+    {
+        "produto": "Casa Valduga Raízes",
+        "variedade": "Cabernet Sauvignon",
+        "pais": "Brasil",
+        "categoria": "Tinto",
+        "safra": "2013",
+        "preco": 55
+    },
+    {
+        "produto": "Casa Valduga Raízes",
+        "variedade": "Merlot",
+        "pais": "Brasil",
+        "categoria": "Tinto",
+        "safra": "2013",
+        "preco": 55
+    },
+    {
+        "produto": "Casa Valduga Raízes",
+        "variedade": "Chardonnay",
+        "pais": "Brasil",
+        "categoria": "Branco",
+        "safra": "2013",
+        "preco": 55
+    },
+    {
+        "produto": "Casa Valduga Gran Reserva",
+        "variedade": "Chardonnay",
+        "pais": "Brasil",
+        "categoria": "Branco",
+        "safra": "2009",
+        "preco": 110
+    },
+    {
+        "produto": "Casa Valduga Villa Lobos",
+        "variedade": "Cabernet Sauvignon",
+        "pais": "Brasil",
+        "categoria": "Tinto",
+        "safra": "2007",
+        "preco": 140
+    },
+    {
+        "produto": "Casa Silva Reserva",
+        "variedade": "Cabernet Sauvignon",
+        "pais": "Chile",
+        "categoria": "Tinto",
+        "safra": "2014",
+        "preco": 79
+    },
+    {
+        "produto": "Casa Silva Reserva",
+        "variedade": "Carménère",
+        "pais": "Chile",
+        "categoria": "Tinto",
+        "safra": "2014",
+        "preco": 79
+    },
+    {
+        "produto": "Casa Silva Reserva",
+        "variedade": "Chardonnay",
+        "pais": "Chile",
+        "categoria": "Branco",
+        "safra": "2016",
+        "preco": 79
+    },
+    {
+        "produto": "Casa Silva Reserva",
+        "variedade": "Sauvignon Blanc",
+        "pais": "Chile",
+        "categoria": "Branco",
+        "safra": "2015",
+        "preco": 79
+    },
+    {
+        "produto": "Casa Silva Gran Reserva",
+        "variedade": "Petit Verdot",
+        "pais": "Chile",
+        "categoria": "Tinto",
+        "safra": "2009",
+        "preco": 120
+    },
+    {
+        "produto": "Casa Silva Gran Reserva",
+        "variedade": "Syrah",
+        "pais": "Chile",
+        "categoria": "Tinto",
+        "safra": "2009",
+        "preco": 120
+    },
+    {
+        "produto": "Finca La Emperatriz Crianza",
+        "variedade": "Tempranillo",
+        "pais": "Espanha",
+        "categoria": "Tinto",
+        "safra": "2008",
+        "preco": 158
+    },
+    {
+        "produto": "Maius Priorat",
+        "variedade": "Garnacha",
+        "pais": "Espanha",
+        "categoria": "Tinto",
+        "safra": "2008",
+        "preco": 158
+    },
+    {
+        "produto": "Wente Reliz Creek Pinot Noir",
+        "variedade": "Pinot Noir",
+        "pais": "EUA",
+        "categoria": "Tinto",
+        "safra": "2012",
+        "preco": 258
+    },
+    {
+        "produto": "Saint Emilion Château La Clide Gran Cru",
+        "variedade": "Merlot",
+        "pais": "França",
+        "categoria": "Tinto",
+        "safra": "2009",
+        "preco": 298
+    }
+]
